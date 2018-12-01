@@ -18,6 +18,7 @@ body {
 div {
     margin: 0;
     padding: 0;
+    width: 1024px;
     background-color: lightgrey;
 }
 
@@ -31,6 +32,12 @@ h2 {
 
 img {
     float: left;
-    height: 150px;
+    height: 135px;
     width: 200px;
+    border-width: 5px;
+    border-color: #000;
+}
+
+a {
+    color: red;
 }
